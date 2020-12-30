@@ -1,4 +1,5 @@
 # RGB-Colour-Game
+https://phantomcoder11.github.io/RGB-Colour-Game/
 This is a web game which tests the colour combination knowledge of the users.
 
 RGB color space or RGB color system, constructs all the colors from the combination of the Red, Green and Blue colors.
